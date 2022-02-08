@@ -1,0 +1,14 @@
+//      """
+//      Powered By SCP-10492
+//      2022.2.8
+//      派臭臭语言
+//      """
+        #include<bits/stdc++.h>
+        using namespace std         ;
+
+        int main()                  {
+            while (1)               {
+                long long a         ;
+                a += 114514         ;
+                long long b         ;
+                b += 114514         ;}}
