@@ -1,10 +1,6 @@
 """
-Powered By Searchstars
+Powered By SCP-10492
 system-crasher Main
 """
-import _thread
 import os
-def run(a,b):
-    os.system("crasher-gcc-release.exe")
-while True:
-    _thread.start_new_thread( run, ("Thread-1", 2, ) )
+os.system("crasher-dotnet-release.exe")
